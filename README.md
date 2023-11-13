@@ -2,4 +2,5 @@
 Telegram bot shows the current exchange rate of the currency selected from the list
 
 Screen:
-![image](https://github.com/tasukeua/java-telegram-nbutask-exchange-bot/assets/60263239/734375df-2699-4dce-966b-a3d8e2609561)
+
+![image](https://github.com/tasukeua/java-telegram-nbutask-exchange-bot/assets/60263239/b48c19a2-b56e-4d74-ba84-e9b5025da2fb)
