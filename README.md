@@ -1,4 +1,4 @@
-# java-telegram-nbutask-exchange-bot
+# Telegram bot
 Telegram bot shows the current exchange rate of the currency selected from the list
 
 Using Emoji: https://github.com/vdurmont/emoji-java.git
